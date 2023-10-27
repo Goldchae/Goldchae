@@ -1,4 +1,8 @@
-### Hi there 👋
+## 🎀 HamstersAreCute 🎀
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/celina324/)
+
+### ✨ 티스토리 링크 ✨
+[은체공부](https://junggoldchae-coding.tistory.com)
 
 <!--
 **Goldchae/Goldchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
