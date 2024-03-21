@@ -15,9 +15,30 @@
     <img src="https://img.shields.io/badge/About me-000000?style=for-the-badge&logo=notion&logoColor=white" />
     &nbsp
   </a>
+  <h4>📍Organizations </h4>
+  - ICPC Sinchon (신촌지역 대학교 연합 알고리즘 학회) : President (6/2023 - 2/2024) 
+  <br>
+  - EDOC(이화여자대학교 컴퓨터공학과 알고리즘 학회) : President (6/2022 - 11/2023) 
+  <br>
+  - Altu-Bitu (이화여자대학교 코딩테스트 e-class) : Tutor,Mentor (6/2023 - 11/2023)
+  <br>
+  - Ec.crew : President, Founder ( 6/2022 - 11/2023 )
+  <br>
+  - C.crew (게임개발팀) : Developer, Leader,PM ( 7/2022 ~ )
+  <br>
+  - Ewha IT Club Union ( 이화여자대학교 IT 동아리 연합 ) : Founder (8/2023 ~)
+  
+<br>
+  <h4>📍Awards</h4>
+   - Woongjin Thinkbig Game Development Challenge : Encouragement Award (12/2022) 
+   <br>
+  - Ewha-thon : Award (3/2024) 
+  <div>
+    
+  </div>
 </div>
 
-<br>
+<br><br>
 <!--내용 부분-->
 <h3 align="center">🪐 Tech Stack 🪐</h3>
 <div align="center">
@@ -90,7 +111,7 @@
 
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/celina324/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/celina324/)<img src="http://mazandi.herokuapp.com/api?handle=celina324&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldchae&&hide_progress=true)
 
 <!--![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldchae&show_icons=true&theme=radical)-->
