@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" />
     &nbsp
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/About me-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <a href="https://skitter-variraptor-bf5.notion.site/dc04b834fc7f4aa1ad0ddaf4e67ba0be?pvs=4">
+    <img src="https://img.shields.io/badge/Bucket List-000000?style=for-the-badge&logo=notion&logoColor=white" />
     &nbsp
   </a>
   <h4>📍Organizations </h4>
