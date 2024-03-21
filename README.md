@@ -78,7 +78,7 @@
   &nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   &nbsp
-  <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white" />
   &nbsp
   <img src="https://img.shields.io/badge/procreate-000000.svg?style=for-the-badge" />
   &nbsp
