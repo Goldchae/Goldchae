@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./main2.gif" />
+</div>
+
+---
+
 <h3 align="center">🌷About me🌷</h3>
 <div align="center">
   <!--블로그-->
