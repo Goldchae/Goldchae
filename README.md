@@ -30,9 +30,9 @@
   
 <br>
   <h4>📍Awards</h4>
-   - Woongjin Thinkbig Game Development Challenge : Encouragement Award (12/2022) 
+   - Woongjin Thinkbig Game Development Challenge : Encouragement prize (12/2022) 
    <br>
-  - Ewha-thon : Award (3/2024) 
+  - [Ewha IT Hackathon 2024] Ewha-thon : Top prize (3/2024) 
   <div>
     
   </div>
