@@ -104,7 +104,7 @@
   &nbsp
   <img src="https://img.shields.io/badge/cuda-3ECC5F.svg?style=for-the-badge" />
   &nbsp
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 &nbsp
 </div>
 
