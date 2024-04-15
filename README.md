@@ -21,6 +21,8 @@
   - EDOC(이화여자대학교 컴퓨터공학과 알고리즘 학회) : President (6/2022 - 11/2023) 
   <br>
   - Altu-Bitu (이화여자대학교 코딩테스트 e-class) : Tutor,Mentor (6/2023 - 11/2023)
+   <br>
+  - Ewha IT débutante Seminar(이화여자대학교 IT 데뷔탕트 세미나) : Tutor,speaker (9/2023)
   <br>
   - Ec.crew : President, Founder ( 6/2022 - 11/2023 )
   <br>
