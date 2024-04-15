@@ -24,11 +24,12 @@
    <br>
   - Ewha IT débutante Seminar(이화여자대학교 IT 데뷔탕트 세미나) : Tutor,speaker (9/2023)
   <br>
-  - Ec.crew : President, Founder ( 6/2022 - 11/2023 )
+  - Ewha IT Club Union ( 이화여자대학교 IT 동아리 연합 ) : Founder (8/2023 ~)
   <br>
   - C.crew (게임개발팀) : Developer, Leader,PM ( 7/2022 ~ )
   <br>
-  - Ewha IT Club Union ( 이화여자대학교 IT 동아리 연합 ) : Founder (8/2023 ~)
+  - Ec.crew : President, Founder ( 6/2022 - 11/2023 )
+  
   
 <br>
   <h4>📍Awards</h4>
