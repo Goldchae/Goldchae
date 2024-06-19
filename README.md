@@ -38,6 +38,10 @@
   - Woongjin Thinkbig Game Development Challenge : Encouragement prize (12/2022) 
   <div>
     
+  <h4>📍experiences</h4>
+  - 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) : Competition Manager
+(2/2024) 
+   <br>
   </div>
 </div>
 
