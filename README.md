@@ -16,6 +16,8 @@
     &nbsp
   </a>
   <h4>📍Organizations </h4>
+  - Kakao Tech BootCamp (카카오테크 부트캠프) : AI 과정 (7/2024 - 12/2024) 
+  <br>
   - ICPC Sinchon (신촌지역 대학교 연합 알고리즘 학회) : President (6/2023 - 2/2024) 
   <br>
   - EDOC(이화여자대학교 컴퓨터공학과 알고리즘 학회) : President (6/2022 - 11/2023) 
