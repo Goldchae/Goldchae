@@ -35,6 +35,8 @@
   
 <br>
   <h4>📍Awards</h4>
+   - KakaoTech Bootcamp Hackathon : Contest Award (9/2024) 
+  <div>
   - [Ewha IT Hackathon 2024] Ewha-thon : Top prize (3/2024) 
    <br>
   - Woongjin Thinkbig Game Development Challenge : Encouragement prize (12/2022) 
