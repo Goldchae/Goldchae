@@ -35,6 +35,8 @@
   
 <br>
   <h4>📍Awards</h4>
+   - 2024 K-digital Hackathon : Top prize(prime minister award) (11/2024) 
+  <br>
    - KakaoTech Bootcamp Hackathon : Contest Award (9/2024) 
   <div>
   - [Ewha IT Hackathon 2024] Ewha-thon : Top prize (3/2024) 
