@@ -13,7 +13,7 @@
   <a href="https://skitter-variraptor-bf5.notion.site/dc04b834fc7f4aa1ad0ddaf4e67ba0be?pvs=4">
     <img src="https://img.shields.io/badge/Bucket List-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
   &nbsp
-  <a href="http://https://www.canva.com/design/DAGSayjvMNc/CynhtKzdjj13opYVT_Lj5Q/view?utm_content=DAGSayjvMNc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee7f989386">
+  <a href="https://www.canva.com/design/DAGSayjvMNc/CynhtKzdjj13opYVT_Lj5Q/view?utm_content=DAGSayjvMNc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee7f989386">
     <img src="https://img.shields.io/badge/portfolio-808080?style=for-the-badge&logo=velog&logoColor=white" /></a>
   &nbsp
   <a href="http://goldchae-portfolio.info">
