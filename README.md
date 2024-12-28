@@ -9,8 +9,8 @@
   <!--블로그-->
   <a href="https://junggoldchae-coding.tistory.com">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" />
-    &nbsp
   </a>
+  &nbsp
   <a href="https://skitter-variraptor-bf5.notion.site/dc04b834fc7f4aa1ad0ddaf4e67ba0be?pvs=4">
     <img src="https://img.shields.io/badge/Bucket List-000000?style=for-the-badge&logo=notion&logoColor=white" />
     &nbsp
