@@ -8,21 +8,17 @@
 <div align="center">
   <!--블로그-->
   <a href="https://junggoldchae-coding.tistory.com">
-    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" /></a>
   &nbsp
   <a href="https://skitter-variraptor-bf5.notion.site/dc04b834fc7f4aa1ad0ddaf4e67ba0be?pvs=4">
-    <img src="https://img.shields.io/badge/Bucket List-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    &nbsp
-  </a>
+    <img src="https://img.shields.io/badge/Bucket List-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  &nbsp
   <a href="http://https://www.canva.com/design/DAGSayjvMNc/CynhtKzdjj13opYVT_Lj5Q/view?utm_content=DAGSayjvMNc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee7f989386">
-    <img src="https://img.shields.io/badge/portfolio-808080?style=for-the-badge&logo=velog&logoColor=white" />
-    &nbsp
-  </a>
+    <img src="https://img.shields.io/badge/portfolio-808080?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  &nbsp
   <a href="http://goldchae-portfolio.info">
-    <img src="https://img.shields.io/badge/portfolioWeb-808080?style=for-the-badge&logo=velog&logoColor=white" />
-    &nbsp
-  </a>
+    <img src="https://img.shields.io/badge/portfolioWeb-808080?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  &nbsp
   
   <h4>📍Education </h4>
   Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
