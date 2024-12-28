@@ -32,7 +32,13 @@
   <br>
   - Ec.crew : President, Founder ( 6/2022 - 11/2023 )
   
-  
+<h4>📍Work Experience </h4>
+- viuron : LLM agent Intern ( 1/2025 - 2/2025 )
+
+<h4>📍Services in operation </h4>
+- <a href="http://ewhaqup.com">Qup( 이화인용 백준 문제 사이트 )</a> | v1.0.0 release : 2024/12 
+- 계산기사 앱..곧반드시옵니다
+
 <br>
   <h4>📍Awards</h4>
    - 2024 K-digital Hackathon : Top prize(prime minister award) (11/2024) 
