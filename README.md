@@ -24,6 +24,8 @@
   Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
   
   <h4>📍Organizations </h4>
+  - Euron (유런) : AI / 데이터분석 학회 (3/2025 - 8/2025) 
+  <br>
   - Kakao Tech BootCamp (카카오테크 부트캠프) : AI 과정 (7/2024 - 12/2024) 
   <br>
   - ICPC Sinchon (신촌지역 대학교 연합 알고리즘 학회) : President(학회장) (6/2023 - 2/2024) 
@@ -50,10 +52,13 @@
 
 <br>
   <h4>📍Awards</h4>
+  
    - 2024 K-digital Hackathon(2024년 K-디지털 트레이닝 해커톤) : Top prize(prime minister award)(국무총리상) (11/2024) 
   <br>
+   - SUAPC 2025W (신촌 연합 프로그래밍 대회) : 학교별 특별상 (2/2025) 
+  <br>
    - KakaoTech Bootcamp Hackathon(카카오부트캠프 해커톤) : Contest Award(본상) (9/2024) 
-  <div>
+  <br>
   - [Ewha IT Hackathon 2024] Ewha-thon(이화톤) : Top prize(대상) (3/2024) 
    <br>
   - Woongjin Thinkbig Game Development Challenge(웅진싱크빅 게임 개발 챌린지) : Encouragement prize(장려상) (12/2022) 
