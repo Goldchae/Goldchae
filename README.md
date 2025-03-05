@@ -52,7 +52,6 @@
 
 <br>
   <h4>📍Awards</h4>
-  
    - 2024 K-digital Hackathon(2024년 K-디지털 트레이닝 해커톤) : Top prize(prime minister award)(국무총리상) (11/2024) 
   <br>
    - SUAPC 2025W (신촌 연합 프로그래밍 대회) : 학교별 특별상 (2/2025) 
@@ -62,8 +61,8 @@
   - [Ewha IT Hackathon 2024] Ewha-thon(이화톤) : Top prize(대상) (3/2024) 
    <br>
   - Woongjin Thinkbig Game Development Challenge(웅진싱크빅 게임 개발 챌린지) : Encouragement prize(장려상) (12/2022) 
+ 
   <div>
-    
   <h4>📍experiences</h4>
   - 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) : Competition Manager/Tester(대회관리자/출제자)
 (2/2024)
