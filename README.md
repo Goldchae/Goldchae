@@ -21,10 +21,13 @@
   &nbsp
   
   <h4>📍Education </h4>
-  Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
+   - Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
+   <br>
+   - 황의원 교수님 Artificial General Intelligence Laboratory 인턴 (4/2025 - )
   
   <h4>📍Organizations </h4>
-  - 황의원 교수님 Artificial General Intelligence Laboratory 인턴 (4/2025 - )
+ 
+  - SYNERGI 은하 충돌 연구 팀 (천문연 SpaceAI) (세종대 지웅배 교수님 X 연세대 천문우주학과생 X 이화여대 우주정복팀) : AI 연구 (4/2025 - )
   <br>
   - Euron (유런) : AI / 데이터분석 학회 (3/2025 - 8/2025) 
   <br>
