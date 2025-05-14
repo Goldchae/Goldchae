@@ -24,9 +24,9 @@
    - Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
    <br>
    - 황의원 교수님 Artificial General Intelligence Laboratory 인턴 (4/2025 - )
+  <br>
   
   <h4>📍Organizations </h4>
- 
   - SYNERGI 은하 충돌 연구 팀 (천문연 SpaceAI) (세종대 지웅배 교수님 X 연세대 천문우주학과생 X 이화여대 우주정복팀) : AI 연구 (4/2025 - )
   <br>
   - Euron (유런) : AI / 데이터분석 학회 (3/2025 - 8/2025) 
@@ -46,16 +46,18 @@
   - C.crew (게임개발팀) : Developer, Leader,PM(리더) ( 7/2022 ~ )
   <br>
   - Ec.crew : President, Founder(설립자,회장) ( 6/2022 - 11/2023 )
+  <br>
   
 <h4>📍Work Experience </h4>
 - viuron : LLM agent Intern ( 1/2025 - 2/2025 )
+<br>
 
 <h4>📍Services in operation </h4>
 - <a href="http://ewhaqup.com">Qup( 이화인용 백준 문제 사이트 )</a> | v1.0.0 release : 2024/12 
 <br>
 - 계산기사 앱(을곧반드시출시할준비중임)
-
 <br>
+
   <h4>📍Awards</h4>
    - 2024 K-digital Hackathon(2024년 K-디지털 트레이닝 해커톤) : Top prize(prime minister award)(국무총리상) (11/2024) 
   <br>
@@ -66,6 +68,8 @@
   - [Ewha IT Hackathon 2024] Ewha-thon(이화톤) : Top prize(대상) (3/2024) 
    <br>
   - Woongjin Thinkbig Game Development Challenge(웅진싱크빅 게임 개발 챌린지) : Encouragement prize(장려상) (12/2022) 
+ <br>
+
  
   <div>
   <h4>📍experiences</h4>
@@ -75,6 +79,7 @@
   </div>
 </div>
 
+<br>
 <h4>📍Qualifications </h4>
 - sqld(를 딸 준비 중임)
 
