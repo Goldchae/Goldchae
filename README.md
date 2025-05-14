@@ -24,6 +24,8 @@
   Ewha womans university(이화여자대학교) computer science and engineering (컴퓨터공학과) undergraduate : (3/2022 - )
   
   <h4>📍Organizations </h4>
+  - 황의원 교수님 Artificial General Intelligence Laboratory 인턴 (4/2025 - )
+  <br>
   - Euron (유런) : AI / 데이터분석 학회 (3/2025 - 8/2025) 
   <br>
   - Kakao Tech BootCamp (카카오테크 부트캠프) : AI 과정 (7/2024 - 12/2024) 
